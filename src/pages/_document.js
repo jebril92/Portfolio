@@ -4,7 +4,7 @@ import Script from 'next/script';
 class PortfolioDocument extends Document {
   render() {
     return (
-      <Html lang='en'>
+      <Html lang='fr'>
         <Head>
           <link async
             href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap"
